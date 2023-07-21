@@ -15,7 +15,7 @@ Run the `python main_test.py` command to test the model.
 The dataset used in this project is map data, including map data and user origin-destination data. We provide a sample dataset:
 
 - [Map data](edge.csv, node.csv)
-- [User origin-destination data](initial_query_test)
+- [User origin-destination data] (initial_query_test)
 
 ### Data Format
 
